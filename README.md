@@ -35,7 +35,7 @@ And then execute:
 
 |Command|Pattern|Description|
 |:--|:--|:--|
-|[hr](#hr)|/hr\s+(?&lt;text&gt;.+?)\s*(?&lt;count&gt;.*)\z/|Display single line punctuation characters (default 80 times)|
+|[hr](#hr)|/hr\s+(?&lt;text&gt;.+?)\s*(?&lt;count&gt;\d\*)\z/|Display single line punctuation characters (default 80 times)|
 
 ## :scroll: Usage
 ### hr
