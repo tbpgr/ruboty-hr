@@ -31,11 +31,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install ruboty-hr
-
-
 ## :cl: Commands
 
 |Command|Pattern|Description|
