@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to display single line punctuation characters (default 80 times).
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-hr.svg)](http://badge.fury.io/rb/ruboty-hr)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## :notes: Image
