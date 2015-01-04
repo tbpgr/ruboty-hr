@@ -7,17 +7,17 @@ An Ruboty Handler + Actions to display single line punctuation characters (defau
 ## :notes: Image
 ### :baby_chick: Before
 
-theme1 talk :man::speech_balloon::woman::speech_balloon:
-theme1 talk :man::speech_balloon::woman::speech_balloon:
-theme2 talk :woman::speech_balloon::man::speech_balloon:
-theme2 talk :woman::speech_balloon::man::speech_balloon:
+theme1 talk :man::speech_balloon::woman::speech_balloon:  
+theme1 talk :man::speech_balloon::woman::speech_balloon:  
+theme2 talk :woman::speech_balloon::man::speech_balloon:  
+theme2 talk :woman::speech_balloon::man::speech_balloon:  
 
 ### :chicken: After
-theme1 talk :man::speech_balloon::woman::speech_balloon:
-theme1 talk :man::speech_balloon::woman::speech_balloon:
-:rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai:
-theme2 talk :woman::speech_balloon::man::speech_balloon:
-theme2 talk :woman::speech_balloon::man::speech_balloon:
+theme1 talk :man::speech_balloon::woman::speech_balloon:  
+theme1 talk :man::speech_balloon::woman::speech_balloon:  
+:rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai::rocket::ring::moyai:  
+theme2 talk :woman::speech_balloon::man::speech_balloon:  
+theme2 talk :woman::speech_balloon::man::speech_balloon:  
 
 ## :arrow_down: Installation
 
