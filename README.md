@@ -1,6 +1,6 @@
 # Ruboty::Hr
 
-An Ruboty Handler + Actions to display single line punctuation characters (default 80 times).
+A Ruboty Handler + Actions to display single line punctuation characters (default 80 times).
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-hr.svg)](http://badge.fury.io/rb/ruboty-hr)
 
